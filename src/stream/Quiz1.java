@@ -15,6 +15,10 @@ public class Quiz1 {
 	 * */
 	public static void main(String[] args) {
 
+		//리스트 생성
+		String[] arr = {"aaa", "aaa", "b", "b" "ccccc"};
+		
+		Stream 
 		
 	}
 
